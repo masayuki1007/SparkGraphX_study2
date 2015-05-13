@@ -16,7 +16,7 @@ object sample1 {
     conf.setMaster("local")
     val sc = new SparkContext(conf)
 
-    val graph = GraphLoader.edgeListFile(sc, s"data/sample1.tsv")
+    val graph = GraphLoader.edgeListFile(sc, "data/sample1.tsv")
     graph.edges.collect.foreach(println(_))
   }
 }

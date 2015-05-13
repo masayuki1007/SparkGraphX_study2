@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mLoading project definition from N:\SparkGraphX_study2\project[0m
+[0m[[0minfo[0m] [0mSet current project to Simple Project (in build file:/N:/SparkGraphX_study2/)[0m
+[0m[[0minfo[0m] [0mRunning sample1 [0m
+Edge(1,2,1)
+Edge(1,4,1)
+Edge(1,5,1)
+Edge(2,3,1)
+Edge(3,5,1)
+Edge(4,2,1)
+[0m[[32msuccess[0m] [0mTotal time: 21 s, completed 2015/05/13 19:20:50[0m
